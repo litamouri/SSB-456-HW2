@@ -1,0 +1,86 @@
+h1 {
+	color: green;
+}
+h2{
+	display: inline;
+}
+p{
+	display: inline-block;
+}
+.border{
+	border: 3px dashed green;
+}
+.bg{
+	background-color: yellow;
+	font-size: 40px;
+}
+#font{
+	font-style: italic;
+}
+.box{
+    width: 150px;
+    height: 150px;
+}
+.red{
+	background-color: red;
+}
+.black{
+	background-color: black;
+	border: 10px solid yellow;
+}
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+	
+
+}
+.contact{
+	width: 60%;
+	min-height: 200px;
+	background-color: green;
+	float: left;
+
+}
+.blog{
+	width: 40%;
+	min-height: 200px;
+	background-color: blue;
+	float: right;
+
+}
+.wrapper{
+	overflow: hidden;
+	
+}
+
+.about{width: 40%;
+	min-height: 200px;
+	background-color:pink ;
+	display: inline-block;
+	
+}
+
+.image{
+	width: 30%;
+	min-height: 200px;
+	background-color:slateblue;
+	float: left;
+	
+	
+}
+.text{
+	width: 30%;
+	min-height: 200px;
+	background-color: darkorange;
+	float: right;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
+a {
+	display: block;
+}
